@@ -1,5 +1,5 @@
 # Apple Stock Price Prediction using LSTM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yavar-NK/Apple_Stock_Prediction/blob/main/Apple_Stock_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yavar-NK/Apple_Stock_Prediction/blob/main/Apple%20Stock%20Prediction.ipynb)
 
 ## 📊 Results
 ![Prediction Result](png.PNG?v=2)
