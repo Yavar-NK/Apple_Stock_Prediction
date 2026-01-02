@@ -1,5 +1,5 @@
 # Apple Stock Price Prediction using LSTM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yavar-NK/Apple_Stock_Prediction/blob/main/main_notebook.ipynb)This project implements a Deep Learning model to predict Apple Inc. (AAPL) stock prices using Long Short-Term Memory (LSTM) networks.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yavar-NK/Apple_Stock_Prediction/blob/main/Apple_Stock_Prediction.ipynb)
 
 ## 📊 Results
 ![Prediction Result](png.PNG?v=2)
