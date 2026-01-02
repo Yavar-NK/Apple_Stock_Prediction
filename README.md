@@ -1,6 +1,5 @@
 # Apple Stock Price Prediction using LSTM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yavar-NK/Apple_Stock_Prediction/blob/main/Apple_Stock_Prediction.ipynb)
-## 📊 Results
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yavar-NK/Apple_Stock_Prediction/blob/main/Apple_Stock_Prediction.ipynb)## 📊 Results
 ![Prediction Result](png.PNG?v=2)
 
 *The graph above shows the comparison between the actual stock prices and the model's predictions.*
