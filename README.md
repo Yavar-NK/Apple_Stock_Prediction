@@ -3,7 +3,7 @@
 This project implements a Deep Learning model to predict Apple Inc. (AAPL) stock prices using Long Short-Term Memory (LSTM) networks.
 
 ## 📊 Results
-![Prediction Result](png.PNG)
+![Prediction Result](png.PNG)![Prediction Result](png.PNG?v=2)
 
 *The graph above shows the comparison between the actual stock prices and the model's predictions.*
 
